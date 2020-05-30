@@ -1,0 +1,69 @@
+
+body{
+    padding: 10px;
+    margin: 1%;
+}
+.navbar{
+    
+    background-image: url("../images/firstimg.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding: 20px;
+    background-color: rgb(161, 157, 157);
+    
+}
+#navdetails{
+    color: white;
+    text-align: center;
+    
+}
+nav a{
+    color: black;
+    border: 2px solid #f0f0f0 ;
+    background-color: rgb(223, 221, 217);
+    margin-left: 180px;
+    display: inline-block;
+    justify-content: space-around;
+    padding: 10px 20px;
+    opacity: 60%;
+
+}
+a:hover{
+    color: rgb(10, 10, 10);
+    background-color: rgb(253, 252, 250);
+}
+.left {
+	background-color: rgb(55, 130, 201);
+	width: 190px;
+	float:left;
+    padding: 5% 1%;
+}
+.information{
+    width: 75%;
+    display: inline-block;
+    padding-left: 2%;
+    
+}
+#infoheading{
+    color: rgb(5, 5, 196); 
+}
+.right{
+    width: 75%;
+    display: inline-block;
+    padding-left: 2%;
+    
+}
+
+.left img{
+    width: 70%;
+    margin: 10%;
+    border: 1px solid rgb(5, 5, 5);
+
+}
+#mainhead{
+    color: rgb(3, 3, 201);
+}
+.tablerow th{
+    padding-right: 40px;
+}
